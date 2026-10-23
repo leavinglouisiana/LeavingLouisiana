@@ -128,7 +128,7 @@ body {
     width: 300px;
     height: auto;
     margin: 100px 100px 0 100px;
-    font-family: 'kindergarten';
+    font-family: 'schoolbell';
 }
 
 .shirtstyle {
@@ -405,9 +405,9 @@ FIRST BOX*/
 /* PACKED CLOTHES DIALOGUE STYLING */
 
 @font-face {
-    font-family: 'SuperBugly';
+    font-family: 'schoolbell';
     /* Give it a nickname */
-    src: url('fonts/Super\ Bugly.ttf') format('ttf');
+    src: url('Schoolbell-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -424,12 +424,12 @@ FIRST BOX*/
 .pcdialog {
     font-size: 20px;
     text-align: center;
-    font-family: 'kindergarten';
+    font-family: 'schoolbell';
 }
 .dialogue {
         display: inline-block;
         padding: 20px 10px 20px 10px;
-        font-family: 'kindergarten';
+        font-family: 'schoolbell';
         color: black;
         background-color: aliceblue;
         border-radius: 10px;

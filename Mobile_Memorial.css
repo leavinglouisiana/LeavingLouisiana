@@ -179,7 +179,7 @@ input[type="checkbox"]:checked+.image-label .litcandle1, input[type="checkbox"]:
 
 .dialogue {
     color: white;
-    font-family: 'kindergarten';
+    font-family: 'schoolbell';
     font-size: 20px;
     text-align: center;
     margin: 0 0 50px 0px;
@@ -200,7 +200,7 @@ input[type="checkbox"]:checked+.image-label .litcandle1, input[type="checkbox"]:
 .text-container {
     height: 350px;
     color: white;
-        font-family: 'kindergarten';
+        font-family: 'schoolbell';
         font-size: 20px;
         text-align: center;
         margin: 100px;
