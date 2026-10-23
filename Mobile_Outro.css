@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'kindergarten.tff';
+    font-family: 'schoolbell';
     background-image: url('Images/waterbackground.png');
     background-size: cover;
     background-position: center;
@@ -10,8 +10,8 @@ body {
 /* Fonts */
 
 @font-face {
-    font-family: 'kindergarten';
-    src: url('kindergarten.ttf') format('woff');
+    font-family: 'schoolbell';
+    src: url('Schoolbell-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

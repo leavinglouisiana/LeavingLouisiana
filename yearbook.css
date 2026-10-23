@@ -1,20 +1,20 @@
 body {
     margin: 0;
-    font-family: 'kindergarten';
+    font-family: 'schoolbell';
     background-image: url('Images/yearbookbackground.svg');
     background-size: cover;
     background-position: center;
 }
 
 /* Fonts */
-
 @font-face {
-    font-family: 'kindergarten';
-    src: url('kindergarten.ttf') format('woff');
+    font-family: 'schoolbell';
+    /* Give your font a custom name */
+    src: url('Schoolbell-Regular.ttf') format('truetype');
+    /* Path to the font file */
     font-weight: normal;
     font-style: normal;
 }
-
 
 
 
