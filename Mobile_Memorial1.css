@@ -10,6 +10,18 @@ body {
 
 }
 
+/* Fonts */
+
+/* 1. Define the custom font */
+@font-face {
+    font-family: 'kindergarden';
+    /* Give your font a custom name */
+    src: url('kindergarten_4.zip') format('truetype');
+    /* Path to the font file */
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* NAVBAR */
 .NavbarContent {
     display: flex;

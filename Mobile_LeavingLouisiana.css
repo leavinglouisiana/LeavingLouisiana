@@ -8,42 +8,17 @@ body {
 }
 
 /* Fonts */
+/* Fonts */
 
+/* 1. Define the custom font */
 @font-face {
-    font-family: 'highway_gothic.normal';
-    src: url('Fonts/HWYGOTH.TTF') format('woff');
+    font-family: 'kindergarden';
+    /* Give your font a custom name */
+    src: url('kindergarten_4.zip') format('truetype');
+    /* Path to the font file */
     font-weight: normal;
     font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.wide';
-    src: url('Fonts/HWYGEXPD.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.wider';
-    src: url('Fonts/HWYGEXPD.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.skinny';
-    src: url('Fonts/HWYGNRRW.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.skinnier';
-    src: url('Fonts/HWYGWDE.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
+} 
 
 /* NAVBAR */
 .NavbarContent {

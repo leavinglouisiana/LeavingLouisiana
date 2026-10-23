@@ -9,47 +9,11 @@ body {
 /* Fonts */
 
 @font-face {
-    font-family: 'highway_gothic.normal';
-    src: url('Fonts/HWYGOTH.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.wide';
-    src: url('Fonts/HWYGEXPD.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.wider';
-    src: url('Fonts/HWYGEXPD.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.skinny';
-    src: url('Fonts/HWYGNRRW.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'highway_gothic.skinnier';
-    src: url('Fonts/HWYGWDE.TTF') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'kindergarten';
-    src: url('Fonts/kindergarten.ttf') format('woff');
+    src: url('kindergarten.ttf') format('woff');
     font-weight: normal;
     font-style: normal;
 }
-
 
 
 
