@@ -144,7 +144,6 @@ body {
 }
 
 .dowimage {
-    position: absolute;
     margin: 10px auto;
     top: 0;
     left: 0;
@@ -161,7 +160,6 @@ body {
 }
 
 .dowimage2 {
-    position: absolute;
         margin: 10px auto;
         top: 0;
         left: 0;
@@ -200,7 +198,7 @@ body {
         filter: none;
         opacity: 1;
         scale: 1;
-        translate 0 0;
+        translate: 0 0;
     }
     100% {
         filter: saturate(0) contrast (4) brightness(.1) blur(5px);
@@ -228,7 +226,7 @@ body {
 .di {
     display: inline-block;
     padding: 20px 10px 20px 10px;
-    font-family: 'kindergarten';
+    font-family: 'schoolbell';
     color: black;
     background-color: rgb(95, 67, 113);
     border-radius: 15px;
