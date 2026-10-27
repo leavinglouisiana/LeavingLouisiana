@@ -145,8 +145,6 @@ body {
 
 .dowimage {
     max-width: 90%;
-    animation: dowimage both;
-        animation-timeline: view(50% 50%);
 }
 
 
@@ -158,8 +156,6 @@ body {
 
 .dowimage2 {
     max-width: 90%;
-        animation: dowimage both;
-        animation-timeline: view(50% 50%);
 }
 
 .content {
