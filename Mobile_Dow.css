@@ -147,7 +147,7 @@ body {
     margin: 10px auto;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 95%;
     z-index: -1;
     animation: dowimage both;
         animation-timeline: view(50% 50%);
@@ -163,14 +163,13 @@ body {
         margin: 10px auto;
         top: 0;
         left: 0;
-        width: 100%;
+        width: 95%;
         z-index: -1;
         animation: dowimage both;
         animation-timeline: view(50% 50%);
 }
 
 .content {
-    position: relative;
     align-content: center;
     margin: 100px auto;
     max-width: 200px;
@@ -179,7 +178,6 @@ body {
     padding: 20px;
 }
 .content2 {
-    position: relative;
     align-content: center;
     margin: 130px auto;
     max-width: 200px;
