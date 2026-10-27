@@ -176,24 +176,6 @@ body {
 }
 
 
-@keyframes dowimage{
-    0% {
-        filter: saturate(0) contrast (4) brightness(.1) blur(5px);
-        opacity: 0;
-    }
-    50%{
-        filter: none;
-        opacity: 1;
-        scale: 1;
-        translate: 0 0;
-    }
-    100% {
-        filter: saturate(0) contrast (4) brightness(.1) blur(5px);
-            opacity: 0;
-  
-    }
-    
-} 
 
 .DowIntro_part2 {
     color: rgba(88, 148, 237, 0.557);
