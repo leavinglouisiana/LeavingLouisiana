@@ -145,7 +145,10 @@ body {
 
 .dowimage {
     max-width: 90%;
+    animation: dowimage both;
+        animation-timeline: view(50% 50%);
 }
+
 
 .wrapper2 {
     position: relative;
@@ -154,7 +157,9 @@ body {
 }
 
 .dowimage2 {
-        max-width: 90%;
+    max-width: 90%;
+        animation: dowimage both;
+        animation-timeline: view(50% 50%);
 }
 
 .content {
