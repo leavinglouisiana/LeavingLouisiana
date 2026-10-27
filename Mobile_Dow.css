@@ -149,8 +149,6 @@ body {
     left: 0;
     width: 95%;
     z-index: -1;
-    animation: dowimage both;
-        animation-timeline: view(100% 100%);
 }
 
 .wrapper2 {
@@ -165,8 +163,6 @@ body {
         left: 0;
         width: 95%;
         z-index: -1;
-        animation: dowimage both;
-        animation-timeline: view(100% 100%);
 }
 
 .content {
